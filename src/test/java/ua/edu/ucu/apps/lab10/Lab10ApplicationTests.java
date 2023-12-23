@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab8;
+package ua.edu.ucu.apps.lab10;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -16,7 +16,7 @@ import ua.edu.ucu.apps.lab10.item_decorators.PaperDecoraror;
 import ua.edu.ucu.apps.lab10.item_decorators.RibbonDecorator;
 
 // @SpringBootTest
-class Lab8ApplicationTests {
+class Lab10ApplicationTests {
 
 	@Test
 	void testDecorators() {
